@@ -3,7 +3,7 @@ public class ComparableDemo {
         Book12 book2 = new Book12_1(007, "Day 1", "Dimamba", "SevSU", 2001, 236, 1, 2, 700);
         Book12 book1 =  new  Book12(623, "text", "Anon", "XZkto", 199, 4, 2, 1);
         Book12 book4 =  new  Book12(144, "leg", "Dar", "hop", 2212, 23, 3, 66);
-
+        //        /JDFGHJIHGFHJHG
         Book12[] book_list = {book2, book1, book4};
         sort(book_list);
         System.out.println("Отсортированный массив объектов: ");
@@ -11,7 +11,7 @@ public class ComparableDemo {
             System.out.println(i.toString()+ "\n");
         }
     }
-   
+
     public static void sort(Comparable[] arr) {
         boolean sorted = false;
         Comparable buffer;
