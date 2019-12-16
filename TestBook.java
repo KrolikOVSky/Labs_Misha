@@ -7,7 +7,7 @@ public class TestBook
         Book book3 =  new  Book();
         Book book4 =  new  Book(144, "leg", "Dar", "hop", 2212, 23, 3, 66);
         Book book5 = null;
-        System.out.printf("Книга №1\n%s\n",book1.toString());
+        //kigffyuofhyjhgjfhijlh
         System.out.printf("Книга №2\n%s\n",book2.toString());
         System.out.printf("Книга №3\n%s\n",book3.toString());
         System.out.printf("Книга №4\n%s\n",book4.toString());
