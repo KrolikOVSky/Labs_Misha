@@ -1,3 +1,4 @@
+package Labs; 
 import java.util.*;
 public class Lab6_2{
     private static void RangInStar(int rang){

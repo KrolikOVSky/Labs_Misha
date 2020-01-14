@@ -1,3 +1,5 @@
+package Labs; 
+
 import java.util.Date;
 public class Lab1
 {
@@ -10,7 +12,7 @@ public class Lab1
         int numRez = numStud * numGrup;
         String teacherName = "Волкова Татьяна Викторовна";
         String studentName = "Акулов Михаил Мимхайлович";
-        String group = "ИВТ/б-19-2-о";
+        String group = "�?ВТ/б-19-2-о";
         
         System.out.println("Программу выполнил:\n" + studentName);
         System.out.println("Шифр группы: " + group);

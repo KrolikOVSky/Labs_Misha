@@ -1,3 +1,4 @@
+package Labs; 
 import java.util.*;
 class Lab8{
     public static int sumArray(int B[]) { 

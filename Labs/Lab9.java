@@ -1,3 +1,4 @@
+package Labs; 
 public class Lab9{ 
 
     public static void sumLowDiog(int Y[][]){

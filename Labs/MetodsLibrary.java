@@ -1,3 +1,4 @@
+package Labs; 
 public class MetodsLibrary{ 
     public static void printArr (int[] A){ 
         if (A == null) return; 

@@ -1,3 +1,4 @@
+package Labs; 
 public class Lab10{ 
     public static void main (String args []){ 
         int[] B = {0,21,10,5,200,11,12};
